@@ -42,7 +42,7 @@ void showOnDisplay(double distCm, bool detected, bool disabled) {
   lastShownDist = distCm;
   lastShownDetected = detected;
   lastShownDisabled = disabled;
-  display.clearDisplay();
+  display.clearDisplay();jjj
   display.setTextColor(SSD1306_WHITE);
   display.setTextSize(1);
   display.setCursor(0, 0);
@@ -120,3 +120,6 @@ void loop() {
   // Oppdater display
   showOnDisplay(dist, objectDetected, false);
 }
+
+
+//ENDRING LOL
