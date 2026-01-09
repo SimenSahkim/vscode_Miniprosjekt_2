@@ -120,3 +120,4 @@ void loop() {
   // Oppdater display
   showOnDisplay(dist, objectDetected, false);
 }
+// Ny_endring
