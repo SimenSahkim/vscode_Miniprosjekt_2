@@ -120,6 +120,3 @@ void loop() {
   // Oppdater display
   showOnDisplay(dist, objectDetected, false);
 }
-
-
-//ENDRING LOL
