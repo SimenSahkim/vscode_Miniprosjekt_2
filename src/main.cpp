@@ -119,4 +119,12 @@ void loop() {
   }
   // Oppdater display
   showOnDisplay(dist, objectDetected, false);
+<<<<<<< HEAD
 }
+=======
+}
+//liten test
+>>>>>>> 4b90790726e72bfd0048ec1da3a2b25248f2a5ad
+
+
+//Mjau mjau
